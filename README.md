@@ -27,7 +27,7 @@ Datasets are organized by **material type**, reflecting chemical and physical mo
 
 Small organic molecules with properties relevant to electrochemical systems, including redox activity and solvation behavior.
 
-| Dataset | Source | Size | Key Properties | Link |
+| Dataset | Method | Size | Key Properties | Access |
 |:--------|:--------|:------|:----------------|:------|
 | QM9 | B3LYP/6-31G(2df,p) | 134K | HOMO/LUMO, dipole moment| [Link](https://quantum-machine.org/datasets/) |
 | QMugs | ωB97X-D/def2-SVP | 2M | HOMO/LUMO, dipole moment, atomic partial charges| [Link](https://libdrive.ethz.ch/index.php/s/X5vOBNSITAG5vzM) |
@@ -48,7 +48,7 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 
 Crystalline materials with properties relevant to ion transport and electrochemical systems.
 
-| Dataset | Source | Size | Key Properties | Link |
+| Dataset | Method | Size | Key Properties | Access |
 |:--------|:--------|:------|:----------------|:------|
 | OQMD | -- | -- | --- | [Link](#) |
 | ARVIS‐DFT | -- | -- | --- | [Link](#) |
@@ -59,7 +59,7 @@ Crystalline materials with properties relevant to ion transport and electrochemi
 
 Liquid electrolyte systems including solvents, salts, and additives.
 
-| Dataset | Source | Size | Key Properties | Link |
+| Dataset | Method | Size | Key Properties | Access |
 |:--------|:--------|:------|:----------------|:------|
 | CALiSol-23 | experiments | 13K | conductivity | [Link](https://github.com/Pele0599/CALiSol-23) |
 | -- | MD + experiments | 13K | conductivity | [Link](https://www.nature.com/articles/s42256-025-01173-w) |
@@ -70,7 +70,7 @@ Liquid electrolyte systems including solvents, salts, and additives.
 
 Polymer systems with properties relevant to ion transport and electrochemical behavior.
 
-| Dataset | Source | Size | Key Properties | Link |
+| Dataset | Method | Size | Key Properties | Access |
 |:--------|:--------|:------|:----------------|:------|
 | Chemprop | B3LYP/DZP | 42K | EA/IP | [Link](https://github.com/coleygroup/polymer-chemprop-data) |
 | PoLyInfo | Experiments | >200K | glass transition temperature, modulus | [Link](https://polymer.nims.go.jp/) |

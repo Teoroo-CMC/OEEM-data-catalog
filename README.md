@@ -62,7 +62,7 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 | Yuan X., et al |--| MD | 277 | viscosity | [Link](https://doi.org/10.1016/j.jechem.2024.10.021) |
 | Chew A.K., et al |--| Exp | > 4K | viscosity | [Link](https://link.springer.com/article/10.1186/s13321-024-00820-5) |
 | 3DG-MP |--| Exp | 237K | MP | [Link](https://github.com/Hyanqing/3DG-MP) |
-| He Y., et al- |--| Exp | 101 | DC | [Link](https://doi.org/10.60893/figshare.jcp.c.7791965) |
+| He Y., et al |--| Exp | 101 | DC | [Link](https://doi.org/10.60893/figshare.jcp.c.7791965) |
 
 ---
 

@@ -59,7 +59,8 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 | SOMAS |--| PBE0/6–31 G** | 12K | HOMO, LUMO, aqueous solubility | [Link](https://figshare.com/articles/dataset/SOMAS/14552697) |
 | Gao Y., et al |--| Exp | 210 | DN | [Link](https://onlinelibrary.wiley.com/doi/10.1002/anie.202411437) |
 | Gutmann |--| Exp | 224 | AN,DN | [Link](https://www.stenutz.eu/chem/gutmann.php) |
-| Chew A.K., et al |--| Exp | > 4K | viscosity | [Link](https://link.springer.com/article/10.1186/s13321-024-00820-5) |
+| Yuan X., et al |--| MD | 277 | viscosity | [Link](https://doi.org/10.1016/j.jechem.2024.10.021) |
+| Chew A. K., et al |--| Exp | > 4K | viscosity | [Link](https://link.springer.com/article/10.1186/s13321-024-00820-5) |
 | 3DG-MP |--| Exp | 237K | MP | [Link](https://github.com/Hyanqing/3DG-MP) |
 | -- |--| Exp | 101 | DC | [Link](https://doi.org/10.60893/figshare.jcp.c.7791965) |
 

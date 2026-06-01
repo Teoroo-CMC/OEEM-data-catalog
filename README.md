@@ -29,8 +29,8 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 
 | Dataset | Source | Size | Key Properties | Link |
 |--------|--------|------|----------------|------|
-| Dataset A | DFT + literature mining | 1.2M | HOMO/LUMO, redox potential, solvation energy | [Link](#) |
-| Dataset B | High-throughput DFT | 500K | stability, dipole moment, polarizability | [Link](#) |
+| QM9 | B3LYP/6-31G(2df,p) | 134K | HOMO/LUMO, dipole moment| [Link](#https://quantum-machine.org/datasets/) |
+| QMugs | ωB97X-D/def2-SVP | 2 M | HOMO/LUMO, dipole moment, atomic partial charges| [Link](#https://libdrive.ethz.ch/index.php/s/X5vOBNSITAG5vzM) |
 
 ---
 

@@ -24,6 +24,7 @@ Datasets are organized by **material type**, reflecting chemical and physical mo
 | Abbreviation | Definition |
 |:---|:---|
 | Exp | Experiments |
+| MD | Molecular Simulation |
 | DFT | Density Functional Theory |
 | HOMO | Highest Occupied Molecular Orbital |
 | LUMO | Lowest Unoccupied Molecular Orbital |
@@ -90,11 +91,12 @@ Polymer systems with properties relevant to ion transport and electrochemical be
 
 | Dataset | Description | Method | Size | Key Properties | Access |
 |:--------|:-------------|:--------|:------|:------------|:------|
-| Chemprop |--| B3LYP/DZP | 42K | EA, IP | [Link](https://github.com/coleygroup/polymer-chemprop-data) |
-| PoLyInfo |--| Exp | >200K | Tg, modulus | [Link](https://polymer.nims.go.jp/) |
+| Chemprop |--| xTB+B3LYP/DZP | 42K | EA, IP | [Link](https://github.com/coleygroup/polymer-chemprop-data) |
+| PoLyInfo |--| Exp | >200K | DC, Tg, Tensile modulus | [Link](https://polymer.nims.go.jp/) |
+| PolyOmics |--| MD | 3M | DC, Tg, bulk modulus, self-diffusion coefficient | [Link](https://huggingface.co/datasets/yhayashi1986/PolyOmics) |
 | PEDatamine |--| Exp | 5k | Tg, ionic conductivity | [Link](https://pedatamine.org/) |
 | HTP-MD |--| MD | 6k | ionic conductivity, Li Diffusivity | [Link](https://www.htpmd.matr.io/ ) |
 | Chem-Arr |--| Exp | 15k | ionic conductivity | [Link](https://github.com/learningmatter-mit/Chem-prop-pred) |
-| OpenPoly |--| Exp | 13k | Tg, Eg, modulus | [Link](https://cleanenergymaterials.cn/polymer/polymer_database/experiment_polymer_database) |
+| OpenPoly |--| Exp | 13k | Tg, Eg, Tensile modulus | [Link](https://cleanenergymaterials.cn/polymer/polymer_database/experiment_polymer_database) |
 
 ---

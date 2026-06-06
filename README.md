@@ -68,7 +68,6 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 | Schrödinger-VISC |H,C,N,O,F,Si,<br>P,S,Cl,Br,I| 36 |Exp | 3K | VISC | [Link](https://static-content.springer.com/esm/art%3A10.1186%2Fs13321-024-00820-5/MediaObjects/13321_2024_820_MOESM2_ESM.csv) |
 | 3DG-MP |H,C,N,O,F,P,<br>S,Cl,Se,Br,I| 123 |Exp | 237K | MP | [Link](https://github.com/Hyanqing/3DG-MP) |
 | NanjingTech-DC |H,C,N,O,F,P,S| 13 |Exp | 101 | DC | [Link](https://doi.org/10.60893/figshare.jcp.c.7791965) |
-| ByteDance-mono |H,B,C,N,O,F,<br>Si,P,S,Cl| 30 | -- | 240K | MP, BP, VISC, DC | [Link](https://github.com/ByteDance-Seed/bamboo_mixer/blob/main/data_oss/mono_data.json.xz) |
 
 ---
 

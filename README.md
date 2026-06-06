@@ -35,6 +35,7 @@ Datasets are organized by **material type**, reflecting chemical and physical mo
 | DN | Donor Number |
 | DC | Dielectric Constant |
 | MP | Melting Point |
+| BP | Boiling Point |
 | VISC | Viscosity |
 | COND | Ionic Conductivity |
 | AqSol | Aqueous Solubility |
@@ -67,6 +68,7 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 | Schrödinger-VISC |H,C,N,O,F,Si,<br>P,S,Cl,Br,I| 36 |Exp | 3K | VISC | [Link](https://static-content.springer.com/esm/art%3A10.1186%2Fs13321-024-00820-5/MediaObjects/13321_2024_820_MOESM2_ESM.csv) |
 | 3DG-MP |H,C,N,O,F,P,<br>S,Cl,Se,Br,I| 123 |Exp | 237K | MP | [Link](https://github.com/Hyanqing/3DG-MP) |
 | NanjingTech-DC |H,C,N,O,F,P,S| 13 |Exp | 101 | DC | [Link](https://doi.org/10.60893/figshare.jcp.c.7791965) |
+| ByteDance-mono |--| ? | Exp | 240K | MP, BP, VISC, DC | [Link](https://github.com/ByteDance-Seed/bamboo_mixer/blob/main/data_oss/mono_data.json.xz) |
 
 ---
 
@@ -88,7 +90,7 @@ Liquid electrolyte systems including solvents, salts, and additives.
 | Dataset | Elements | Method | Size | Key Properties | Access |
 |:------------|:---|:---------|:-|:----------|:-|
 | NUAA-COND |H,Li,C,N,O,<br>F,P,S| MD | 2K | Li diffusion coefficient, COND | [Link](https://pubs.acs.org/doi/10.1021/acs.jpclett.5c02681#_i2) |
-| ByteDance-COND |--| Exp | 10K | COND | [Link](https://huggingface.co/ByteDance-Seed/bamboo_mixer) |
+| ByteDance-mix |--| Exp | 10K | COND | [Link](https://github.com/ByteDance-Seed/bamboo_mixer/blob/main/data_oss/formula_finetune_exp_data.json.xz) |
 | CALiSol-23 |H,Li,C,N,O,<br>F,P,S| Exp | 13K | COND | [Link](https://github.com/Pele0599/CALiSol-23) |
 
 ---

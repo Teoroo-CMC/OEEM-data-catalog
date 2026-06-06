@@ -50,7 +50,7 @@ Datasets are organized by **material type**, reflecting chemical and physical mo
 Small organic molecules with properties relevant to electrochemical systems, including redox activity and solvation behavior.
 
 | Dataset | Elements | MNHA |  Method | Size | Key Properties | Access |
-|:---------|:--------|:-|:------|:--|:----------|:--|
+|:----------|:--------|:-|:-------|:-|:----------|:-|
 | QM9 |H,C,N,O,F| 9 |B3LYP/6-31G(2df,p) | 134K | HOMO, LUMO, μ| [Link](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) |
 | QMugs |H,C,N,O,F,<br>P,S,Cl,Br,I| 100 |ωB97X-D/def2-SVP | ~2M | HOMO, LUMO, μ| [Link](https://libdrive.ethz.ch/index.php/s/X5vOBNSITAG5vzM) |
 | JCESR |H,Li,Be,B,C,<br>N,O,F,Na,Mg,<br>Al,Si,P,S,Cl,<br>Ca,Zn,Br| 92 |B3LYP/6-31+G* | 25K | EA, IP | [Link](https://next-gen.materialsproject.org/jcesr) |
@@ -59,7 +59,7 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 | OMEAD |H,Li,C,N,O,F,<br>Na,S,Cl,Zn,Se,Br| 122 |B3LYP/6–31G(d) | 26K | HOMO, LUMO, EA, IP, E₀ | [Link](https://github.com/rpcarvs/anima/blob/main/databases/OMEAD_26218.csv) |
 | MNSOL |H,C,N,O,F,<br>Si,P,S,Cl,Br,I| 28 |Exp | 2K | SFE | [Link](https://conservancy.umn.edu/items/c3db00cf-d573-461b-adf5-389ff929d918) |
 | ASMS |H,C,N,O,F,<br>P,S,Cl,Br,I| 54 |Exp | ~2K | AqSol | [Link](https://pubs.acs.org/doi/suppl/10.1021/ci800406y/suppl_file/ci800406y_si_001.xls) |
-| SOMAS |--| ? |PBE0/6–31 G** | 12K | HOMO, LUMO, AqSol | [Link](https://figshare.com/articles/dataset/SOMAS/14552697) |
+| SOMAS |H,B,C,N,O,<br>F,Si,P,S,Cl,<br>Ge,As,Se,Br,I| 66 |PBE0/6–31 G** | 12K | HOMO, LUMO, AqSol | [Link](https://figshare.com/articles/dataset/SOMAS/14552697) |
 | SCUT-DN |--| ? |Exp | 210 | DN | [Link](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fanie.202411437&file=anie202411437-sup-0001-Supporting-Information-Sheets.xlsx) |
 | Gutmann |--| ? |Exp | 224 | AN,DN | [Link](https://www.stenutz.eu/chem/gutmann.php) |
 | SCUT-VISC |--| ? |MD | 277 | VISC | [Link](https://ars.els-cdn.com/content/image/1-s2.0-S2095495624007265-mmc2.xlsx) |

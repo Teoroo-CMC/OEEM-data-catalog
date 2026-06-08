@@ -111,6 +111,6 @@ Polymer systems with properties relevant to ion transport and electrochemical be
 | PolyOmics |--| MD | 3M | DC, Tg, bulk modulus, self-diffusion coefficient | [Link](https://huggingface.co/datasets/yhayashi1986/PolyOmics) |
 | PolymerElectrolyte |H,C,N,O,<br>Si,P,S| Exp | 655 | Tg, COND | [Link](https://github.com/nschauser/PolymerElectrolyte/blob/main/_Cleaned_Final_Data_6_2_2020.csv) |
 | HTP-MD |H,C,N,O,F,<br>Si,P,S,Cl,| MD | 6k | COND, Li diffusion coefficient | [Link](https://www.htpmd.matr.io/ ) |
-| Chem-Arr |--| Exp | 15k | COND | [Link](https://github.com/learningmatter-mit/Chem-prop-pred) |
+| Chem-Arr |H,B,C,N,O,<br>F,Al,Si,P,<br>S,Cl,Ca,| Exp | >10k | COND | [Link](https://github.com/learningmatter-mit/Chem-prop-pred/blob/main/data/clean_train_data.csv) |
 
 ---

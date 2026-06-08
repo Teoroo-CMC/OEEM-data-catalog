@@ -1,6 +1,6 @@
 # O2EM-data-catalog
 
-A curated catalog of publicly available datasets with properties relevant to organic electrochemical energy material (O2EM).
+A curated catalog of publicly available datasets with properties relevant to Organic Electrochemical Energy Material (O2EM).
 
 ---
 

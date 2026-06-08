@@ -79,7 +79,7 @@ Crystalline materials with properties relevant to ion transport and electrochemi
 | Dataset | Elements | Method | Size | Key Properties | Access |
 |:------------|:------|:---------|:-|:----------|:-|
 | OQMD |--| -- | -- | --- | [Link]() |
-| JARVIS-DFT |--| PBE+OptB88vdW | >100K | Eg | [Link](https://figshare.com/articles/dataset/jdft_3d-7-7-2018_json/6815699) |
+| JARVIS-DFT |--| PBE+OptB88vdW | >30K | Eg | [Link](https://figshare.com/articles/dataset/jdft_3d-7-7-2018_json/6815699) |
 
 ---
 

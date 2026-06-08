@@ -55,13 +55,13 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 |:------------|:---|:-|:---------|:-|:----------|:-|
 | QM9 |H,C,N,O,F| 9 |B3LYP/6-31G(2df,p) | 134K | HOMO, LUMO, μ| [Link](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) |
 | QMugs |H,C,N,O,F,P,<br>S,Cl,Br,I| 100 |ωB97X-D/def2-SVP | ~2M | HOMO, LUMO, μ| [Link](https://libdrive.ethz.ch/index.php/s/X5vOBNSITAG5vzM) |
-| JCESR |H,Li,Be,B,C,<br>N,O,F,Na,Mg,<br>Al,Si,P,S,Cl,<br>Ca,Zn,Br| 92 |B3LYP/6-31+G* | 25K | EA, IP | [Link](https://next-gen.materialsproject.org/jcesr) |
+| JCESR |H,Li,Be,B,C,<br>N,O,F,Na,Mg,<br>Al,Si,P,S,Cl,<br>Ca,Zn,Br| 92 |B3LYP/6-31+G(d) | 25K | EA, IP | [Link](https://next-gen.materialsproject.org/jcesr) |
 | MPcules |H,Li,B,C,N,O,<br>F,Mg,P,S,Cl| 31 |ωB97M-V/def2-TZVPPD | 577K | EA, IP, E₀| [Link](https://next-gen.materialsproject.org/molecules) |
-| ConGen |H,B,C,N,O,F,<br>Si,P,S,Cl,Br| 92 |B3LYP/6-31+G* | 62K | EA, IP | [Link](https://github.com/jpmailoa/ConGen_Dataset/blob/main/Figure_3_Training_Data/data_Table_2/table_2_MP_IE_EA.csv) |
+| ConGen |H,B,C,N,O,F,<br>Si,P,S,Cl,Br| 92 |B3LYP/6-31+G(d) | 62K | EA, IP | [Link](https://github.com/jpmailoa/ConGen_Dataset/blob/main/Figure_3_Training_Data/data_Table_2/table_2_MP_IE_EA.csv) |
 | OMEAD |H,Li,C,N,O,<br>F,Na,S,Cl,Zn,<br>Se,Br| 122 |B3LYP/6–31G(d) | 26K | HOMO, LUMO, EA, IP, E₀ | [Link](https://github.com/rpcarvs/anima/blob/main/databases/OMEAD_26218.csv) |
 | MNSOL |H,C,N,O,F,Si,<br>P,S,Cl,Br,I| 28 |Exp | 2K | SFE | [Link](https://conservancy.umn.edu/items/c3db00cf-d573-461b-adf5-389ff929d918) |
 | ASMS |H,C,N,O,F,<br>P,S,Cl,Br,I| 54 |Exp | ~2K | AqSol | [Link](https://pubs.acs.org/doi/suppl/10.1021/ci800406y/suppl_file/ci800406y_si_001.xls) |
-| SOMAS |H,B,C,N,O,<br>F,Si,P,S,Cl,<br>Ge,As,Se,Br,I| 66 |PBE0/6–31 G** | 12K | HOMO, LUMO, AqSol | [Link](https://figshare.com/articles/dataset/SOMAS/14552697) |
+| SOMAS |H,B,C,N,O,<br>F,Si,P,S,Cl,<br>Ge,As,Se,Br,I| 66 |PBE0/6-31G(d,p) | 12K | HOMO, LUMO, AqSol | [Link](https://figshare.com/articles/dataset/SOMAS/14552697) |
 | SCUT-DN |H,C,N,O,F,P,<br>S,Cl,Se,Br,I| 26 |Exp | 210 | DN | [Link](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fanie.202411437&file=anie202411437-sup-0001-Supporting-Information-Sheets.xlsx) |
 | Gutmann |H,C,N,O,F,P,<br>S,Cl,Cr,Br,I| 26 |Exp | 224 | AN, DN | [Link](https://www.stenutz.eu/chem/gutmann.php) |
 | SCUT-VISC |H,C,O,F| 14 |MD | 277 | VISC | [Link](https://ars.els-cdn.com/content/image/1-s2.0-S2095495624007265-mmc2.xlsx) |

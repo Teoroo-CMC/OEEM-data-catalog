@@ -72,7 +72,7 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 
 ## 2.2 Molecular Crystals
 
-Crystalline materials with properties relevant to ion transport and electrochemical systems.
+Organic crystalline materials with properties relevant to ion transport and electrochemical systems.
 
 | Dataset | Elements | Method | Size | Key Properties | Access |
 |:------------|:------|:---------|:-|:----------|:-|

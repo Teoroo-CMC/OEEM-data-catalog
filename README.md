@@ -68,7 +68,7 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 | OPERA |H,B,C,N,O,<br>F,Si,P,S,<br>Cl,Se,Br,I| 131 |Exp | 15K | MP, BP | [Link](https://github.com/kmansouri/OPERA/blob/master/OPERA_Data.zip) |
 | NanjingTech-DC |H,C,N,O,F,<br>P,S| 13 | Exp | 101 | DC | [Link](https://doi.org/10.60893/figshare.jcp.c.7791965) |
 | OMol25 | 83 elements | 350 | ωB97M-V/def2-TZVPD | 4M | HOMO, LUMO  | [Link](https://www.materialsdatafacility.org/spotlight/omol25) |
-| Batt-P30K | H,C,N,O,F,P,S,Cl | 16 | ωB97X-V/def2-TZVPPD/SMD(ε=18.5) | 30K | HOMO, LUMO, Eg, μ, EA, IP | [Link](https://github.com/Teoroo-CMC/Batt-SLM/blob/main/Batt-P30K/Batt-P30K.h5) |
+| Batt-P30K | H,C,N,O,F,<br>P,S,Cl | 16 | ωB97X-V/def2-TZVPPD/SMD(ε=18.5) | 30K | HOMO, LUMO, Eg, μ, EA, IP | [Link](https://github.com/Teoroo-CMC/Batt-SLM/blob/main/Batt-P30K/Batt-P30K.h5) |
 
 ---
 
@@ -93,11 +93,11 @@ Liquid electrolyte systems including solvents, salts, and additives.
 | NUAA-COND |H,Li,C,N,<br>O,F,P,S| MD | 2K | Li diffusion coefficient, COND | [Link](https://pubs.acs.org/doi/10.1021/acs.jpclett.5c02681#_i2) |
 | Bamboo |H,Li,B,C,N,<br>O,F,P,S,Cl| Exp | 10K | COND | [Link](https://github.com/ByteDance-Seed/bamboo_mixer/blob/main/data_oss/formula_finetune_exp_data.json.xz) |
 | CALiSol-23 |H,Li,B,C,N,<br>O,F,P,S,Cl| Exp | 13K | COND | [Link](https://github.com/Pele0599/CALiSol-23) |
-| DiffMix |-------| Exp | 25K | COND, Excess_molar_enthalpy, Excess_molar_volume | [Link](https://github.com/BattModels/DiffMix-NatCommData/tree/main/training_data) |
-| Electrolytomics |----------| Exp | >10K | COND, Oxidative stability, Coulombic efficiency  | [Link](https://github.com/AmanchukwuLab/electrolytomics/tree/main/datasets/raw) |
-| LIBE |-------| ωB97X-V/def2-TZVPPD/SMD | 17K | Enthalpy, Entropy, Gibbs free energy | [Link](https://figshare.com/articles/dataset/Lithium-Ion_Battery_Electrolyte_LIBE_dataset/14226464?file=28071129) |
-| MolSet |-------| Exp | 11K | COND | [Link](https://github.com/Xiangwen-Wang/FragForm/blob/main/dataset/molset.csv) |
-| ELLIE |-------| Exp | 106 | COND | [Link](https://pubs.acs.org/aelccp/article-supplement/5207270/xlsx/nz-2026-01023w_si_002/) |
+| DiffMix |H,Li,C,N,O,<br>F,P,S| Exp | 25K | COND, Excess_molar_enthalpy, Excess_molar_volume | [Link](https://github.com/BattModels/DiffMix-NatCommData/tree/main/training_data) |
+| Electrolytomics |H,Li,B,C,N,<br>O,F,P,S,Cl,As| Exp | >10K | COND, Oxidative stability, Coulombic efficiency  | [Link](https://github.com/AmanchukwuLab/electrolytomics/tree/main/datasets/raw) |
+| LIBE |H,Li,C,N,O,<br>F,P,S| ωB97X-V/def2-TZVPPD/SMD | 17K | Enthalpy, Entropy, Gibbs free energy | [Link](https://figshare.com/articles/dataset/Lithium-Ion_Battery_Electrolyte_LIBE_dataset/14226464?file=28071129) |
+| MolSet |H,Li,B,C,N,<br>O,F,P,S,Cl| Exp | 11K | COND | [Link](https://github.com/Xiangwen-Wang/FragForm/blob/main/dataset/molset.csv) |
+| ELLIE |H,Li,C,N,O,<br>F,Na,P,S| Exp | 106 | COND | [Link](https://pubs.acs.org/aelccp/article-supplement/5207270/xlsx/nz-2026-01023w_si_002/) |
 
 ---
 

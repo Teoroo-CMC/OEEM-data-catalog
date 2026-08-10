@@ -96,6 +96,7 @@ Liquid electrolyte systems including solvents, salts, and additives.
 | DiffMix |-------| Exp | 25K | COND, Excess_molar_enthalpy, Excess_molar_volume | [Link](https://github.com/BattModels/DiffMix-NatCommData/tree/main/training_data) |
 | Electrolytomics |----------| Exp | >10K | COND, Oxidative stability, Coulombic efficiency  | [Link](https://github.com/AmanchukwuLab/electrolytomics/tree/main/datasets/raw) |
 | LIBE |-------| ωB97X-V/def2-TZVPPD/SMD | 17K | Enthalpy, Entropy, Gibbs free energy | [Link](https://figshare.com/articles/dataset/Lithium-Ion_Battery_Electrolyte_LIBE_dataset/14226464?file=28071129) |
+| MolSet |-------| Exp | 11K | COND | [Link](https://github.com/Xiangwen-Wang/FragForm/blob/main/dataset/molset.csv) |
 
 ---
 

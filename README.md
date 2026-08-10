@@ -67,6 +67,7 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 | 3DG-MP |H,C,N,O,F,P,<br>S,Cl,Se,Br,I| 123 |Exp | 237K | MP | [Link](https://github.com/Hyanqing/3DG-MP) |
 | OPERA |H,B,C,N,O,<br>F,Si,P,S,<br>Cl,Se,Br,I| 131 |Exp | 15K | MP, BP | [Link](https://github.com/kmansouri/OPERA/blob/master/OPERA_Data.zip) |
 | NanjingTech-DC |H,C,N,O,F,<br>P,S| 13 | Exp | 101 | DC | [Link](https://doi.org/10.60893/figshare.jcp.c.7791965) |
+| OMol25 | 83 elements | 350 | ωB97M-V/def2-TZVPD | 4M | HOMO, LUMO  | [Link](https://www.materialsdatafacility.org/spotlight/omol25) |
 
 ---
 
@@ -111,5 +112,6 @@ Polymer systems with properties relevant to ion transport and electrochemical be
 | PolymerElectrolyte |H,C,N,O,<br>Si,P,S| Exp | 655 | Tg, COND | [Link](https://github.com/nschauser/PolymerElectrolyte/blob/main/_Cleaned_Final_Data_6_2_2020.csv) |
 | HTP-MD |H,C,N,O,F,<br>Si,P,S,Cl,| MD | 6k | COND, Li diffusion coefficient | [Link](https://www.htpmd.matr.io/ ) |
 | ChemPropPred |H,B,C,N,O,<br>F,Al,Si,P,<br>S,Cl,Ca,| Exp | 10k | COND | [Link](https://github.com/learningmatter-mit/Chem-prop-pred/blob/main/data/clean_train_data.csv) |
+| OPoly26 | 83 elements | ωB97M-V/def2-TZVPD | >6M substructures | HOMO, LUMO  | [Link](https://huggingface.co/datasets/colabfit/OPoly26-train) |
 
 ---

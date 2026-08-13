@@ -67,6 +67,7 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 | 3DG-MP |H,C,N,O,F,P,<br>S,Cl,Se,Br,I| 123 |Exp | 237K | MP | [Link](https://github.com/Hyanqing/3DG-MP) |
 | OPERA |H,B,C,N,O,<br>F,Si,P,S,<br>Cl,Se,Br,I| 131 |Exp | 15K | MP, BP | [Link](https://github.com/kmansouri/OPERA/blob/master/OPERA_Data.zip) |
 | NanjingTech-DC |H,C,N,O,F,<br>P,S| 13 | Exp | 101 | DC | [Link](https://doi.org/10.60893/figshare.jcp.c.7791965) |
+| CIAC-RP |H,C,N,O,S,Cl| -- | ωb97XD/6-31+(d,p)/SMD | 1003 | Reduction potential | [Link](https://zenodo.org/records/10828373) |
 | OMol25 | 83 elements | 350 | ωB97M-V/def2-TZVPD | 4M | HOMO, LUMO  | [Link](https://www.materialsdatafacility.org/spotlight/omol25) |
 | Batt-P30K | H,C,N,O,F,<br>P,S,Cl | 16 | ωB97X-V/def2-TZVPPD/SMD(ε=18.5) | 30K | HOMO, LUMO, Eg, μ, EA, IP | [Link](https://github.com/Teoroo-CMC/Batt-SLM/blob/main/Batt-P30K/Batt-P30K.h5) |
 

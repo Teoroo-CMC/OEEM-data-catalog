@@ -108,7 +108,7 @@ Polymer systems with properties relevant to ion transport and electrochemical be
 
 | Dataset | Elements | Method | Size | Key Properties | Access |
 |:------------|:------|:---------|:-|:----------|:-|
-| Polymer Genome |--| Exp and Computed | > 30K | EA, IP, Eg, Tg, Tensile strength, Young's modulus | [Link](https://www.polymergenome.org/) |
+| Polymer Genome |--| Exp/Computed | >30K | EA, IP, Eg, Tg, Tensile strength, Young's modulus | [Link](https://www.polymergenome.org/) |
 | PPPdb |--| Exp | 212 | Tg | [Link](https://pppdb.uchicago.edu/tg) |
 | VitrimerVAE |H,C,N,O| MD | 8K | Tg | [Link](https://github.com/vashisth-lab/VitrimerVAE/blob/main/Calibration/tg_vitrimer_calibrated.csv) |
 | NeurIPS-OPP2025 |---| MD | 1500 | Tg | [Link](https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025/data) |

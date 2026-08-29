@@ -82,6 +82,7 @@ Organic crystalline materials with properties relevant to ion transport and elec
 | OMDB-GAP1 |65 elements| PBE | 12K | Eg | [Link](https://omdb.mathub.io/dataset) |
 | OMC25 | H,B,C,N,O,F,Si,P,S,Cl,Br,I | PBE+D3 | ~230K | Total energy, Stress | [Link](https://huggingface.co/datasets/facebook/OMC25) |
 | JARVIS-DFT |Almost full periodic table| PBE+OptB88vdW | 37K | Eg | [Link](https://jarvis-materials-design.github.io/dbdocs/jarvisdft/) |
+| MolCryst |H, C, N, and O | PBE-D4 | AIMD trajectories (25-500K) | Total energy and forces | [Link](https://github.com/adamlaho/MolCryst) |
 
 ---
 

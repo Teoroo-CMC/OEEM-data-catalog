@@ -1,6 +1,8 @@
 # OEEM-data-catalog
 
-A curated catalog of publicly available datasets with properties relevant to Organic Electrochemical Energy Material (OEEM). If you find it useulf, please refer to our original publication: Z.-Y. Zhang, G. Savvas, J. Li, et al. “ AI-Accelerated Design and Modeling of Organic Electrochemical Energy Materials: From Redox-Active Molecules to Polymer Electrolytes.” Macromolecular Materials and Engineering 311, no. 9 (2026): e70340, [https://doi.org/10.1002/mame.70340](https://doi.org/10.1002/mame.70340).
+A curated catalog of publicly available datasets with properties relevant to Organic Electrochemical Energy Material (OEEM). 
+
+If you find it useulf, please refer to our original publication: Z.-Y. Zhang, G. Savvas, J. Li, et al. “ AI-Accelerated Design and Modeling of Organic Electrochemical Energy Materials: From Redox-Active Molecules to Polymer Electrolytes.” Macromolecular Materials and Engineering 311, no. 9 (2026): e70340, [https://doi.org/10.1002/mame.70340](https://doi.org/10.1002/mame.70340).
 
 ---
 

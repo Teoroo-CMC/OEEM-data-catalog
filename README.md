@@ -72,6 +72,7 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 | CIAC-RP |H,C,N,O,S,Cl| 47 | ωB97XD/6-31+(d,p)/SMD | 1K | Reduction potential | [Link](https://zenodo.org/records/10828373) |
 | OMol25 | 83 elements | 350 | ωB97M-V/def2-TZVPD | 83M | HOMO, LUMO  | [Link](https://www.materialsdatafacility.org/spotlight/omol25) |
 | Batt-P30K | H,C,N,O,F,<br>P,S,Cl | 16 | ωB97X-V/def2-TZVPPD/SMD | 30K | HOMO, LUMO, Eg, μ, EA, IP | [Link](https://github.com/Teoroo-CMC/Batt-SLM) |
+| QM9-Solvation | H,C,N,O,F | 9 | B3LYP/6-31G(2df,p)/SMD | 130K (651K SFE) | SFE (5 solvents) | [Link](https://www.materialsdatafacility.org/detail/foundry_g4mp2_solvation_v1.2) |
 
 ---
 
